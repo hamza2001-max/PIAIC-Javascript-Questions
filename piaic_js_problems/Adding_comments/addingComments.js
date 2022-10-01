@@ -1,0 +1,1 @@
+//Comments have been added to favoriteNumber.js and nameArray.js

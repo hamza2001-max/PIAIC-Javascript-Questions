@@ -1,0 +1,1 @@
+console.log(`Imam Ali(A.S) once said He is really wise whose actions reflect his words.`);
